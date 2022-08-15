@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RhodaAde
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Up- 👋 Hi, I’m @RhodaAde
+- 👀 I’m interested in writing and exploring 
+- 🌱 I’m currently learning Graphic design 
+- 💞️ I’m looking to collaborate with software engineer 
+- 📫 How to reach me rhodagboye@gmail.com
 
 <!---
 RhodaAde/RhodaAde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
